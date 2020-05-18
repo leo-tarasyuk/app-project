@@ -1,0 +1,526 @@
+{
+  "menu": [
+    {
+      "name": "Sights",
+      "id": "Sights16",
+      "listMarkers": [
+        {
+          "position": {
+            "lat": 52.08261477,
+            "lng": 23.65812957
+          },
+          "data": {
+            "name": "Brest Fortress",
+            "picture": "../assets/marker-place/Brest Fortress.jpg",
+            "description": "Brest Fortress, one of the most important places in Belarus, dates back to the 19th century and became a key symbol of Soviet resistance in World War 2. Brest Fortress is best reached on foot. It is about a 30-minute walk from the centre of Brest. Alternatively there is an hourly bus service from the town. Whilst you are visiting Brest Fortress you can stay in one of the many Brest hotels, which cater for a wide range of tastes and budgets."
+          },
+          "id": "1"
+        },
+        {
+          "position": {
+            "lat": 52.08687044,
+            "lng": 23.6960721
+          },
+          "data": {
+            "name": "Sovetskaya street",
+            "picture": "../assets/marker-place/Sovetskaya street.jpg",
+            "description": "The street is a pedastrian zone and that is great! So many old architecture, so many sculpture and they all have theis own history. Cafes and shops there are at each corner. The area is nice and beautiful at any time and any season"
+          },
+          "id": "2"
+        },
+        {
+          "position": {
+            "lat": 52.09817515,
+            "lng": 23.68798256
+          },
+          "data": {
+            "name": "Winter Garden",
+            "picture": "../assets/marker-place/Winter Garden.jpg",
+            "description": "The ground floor of the Winter Garden is divided into three conditional climatic zones: the exposition of the tropics (more than 180 species), exposure of subtropics (75 species) and exposure of deserts (more than 140 species).. The singing of exotic birds, the murmur of water, the reigning twilight – all this leaves an indelible impression on visitors."
+          },
+          "id": "3"
+        },
+        {
+          "position": {
+            "lat": 52.08261807,
+            "lng": 23.70155454
+          },
+          "data": {
+            "name": "Embankment",
+            "picture": "../assets/marker-place/Embankment.jpg",
+            "description": "The embankment of the Mukhavets river in Brest is a place of unexpected meetings with old friends, a place of pleasant acquaintances and non-banal pastime. Here young mothers with strollers walk, elderly couples with dogs, whole families and groups of friends. And in the evening the embankment turns into a real avenue of dates."
+          },
+          "id": "4"
+        },
+        {
+          "position": {
+            "lat": 52.09393705,
+            "lng": 23.69940877
+          },
+          "data": {
+            "name": "Lantern Avenue",
+            "picture": "../assets/marker-place/Lantern Avenue.jpg",
+            "description": "In 2013, on the Gogol Street in Brest, the Forged Lanterns Alley appeared. Each lantern on it is a separate art object with its own idea and idea. The lanterns are completely different: these are separate sculptures of a firefighter, merchant, blacksmith, shoe shine. Lantern with a globe, a still life and so on. Since the Alley is located on Gogol Street, there are also “literary” lanterns dedicated to the work of the Russian prose writer."
+          },
+          "id": "5"
+        },
+        {
+          "position": {
+            "lat": 52.10043575,
+            "lng": 23.68045092
+          },
+          "data": {
+            "name": "Brest Railway station",
+            "picture": "../assets/marker-place/Railway station.jpg",
+            "description": "The first building of the Brest station was built in 1886, and opened on 28 May in the presence of Emperor Alexander III. It was built in the form of \"medieval castle\" with four water towers. The station was equipped with water heating. In 1915, during the First world war, the station building was destroyed by the retreating Russian troops. The Polish authorities have constructed a new building."
+          },
+          "id": "6"
+        }
+      ]
+    },
+    {
+      "name": "Museums",
+      "id": "Museums2129",
+      "listMarkers": [
+        {
+          "position": {
+            "lat": 52.08369274,
+            "lng": 23.65764141
+          },
+          "data": {
+            "name": "Memorial Complex Brest Hero-Fortress",
+            "picture": "../assets/marker-place/Memorial Complex Brest Hero-Fortress.jpg",
+            "description": "Special attention is paid to the fortress defense in June-July 1941, to the defenders, search operations on identifying the names of the perished, to the preservation of the memory of the multinational garrison of 1941. The most valuable exhibits are in the collections of “Weapons”, “Things”, “Numismatics”. The Memorial Complex provides tours, lectures, lessons, film shows, actions, meetings, and it is involved in exhibition projects within the Republic of Belarus and abroad (Poland, Germany, England, Russia, the Netherlands)."
+          },
+          "id": "21"
+        },
+        {
+          "position": {
+            "lat": 52.08564092,
+            "lng": 23.67218435
+          },
+          "data": {
+            "name": "Brest Railway Museum",
+            "picture": "../assets/marker-place/Brest Railway Museum.jpg",
+            "description": "The museum was founded on Mai 15, 2002. Its collection consists of 56 rolling stock items. The museum is stored with 170 rail transport technical equipment exhibits of different periods of history. During 2005–2010, fifteen full-scale exhibit rolling stock units reached the museum.  The museum is located close to the Brest Fortress, the major attraction of the city, and is popular among both local and foreign tourists."
+          },
+          "id": "22"
+        },
+        {
+          "position": {
+            "lat": 52.04773337,
+            "lng": 23.67294073
+          },
+          "data": {
+            "name": "The 5th Fort Museum",
+            "picture": "../assets/marker-place/The 5th Fort Museum.jpg",
+            "description": "The 5th fort was one of the defensive objects of the Brest-Litovsk fortress of the first line. It was built in 1878-1888, modernized in 1908-1911. It is located 4 km south-west of the Brest Fortress. It occupies an area of 0.79 km2. The fort has a pentagonal shape. It was erected from a brick, surrounded by an earthen rampart, a moat filled with water. In the rear part, a barracks for the garrison was built, numbering eleven casemates, which was encroached on the floor by the floor."
+          },
+          "id": "23"
+        },
+        {
+          "position": {
+            "lat": 52.08021151,
+            "lng": 23.65469098
+          },
+          "data": {
+            "name": "Berestye Archeological Museum",
+            "picture": "../assets/marker-place/Berestye Archeological Museum.jpg",
+            "description": "Berestye Archeological Museum is unique in Europe, because its visitors can view an archaeological site displaying an authentic East Slavic wooden town dating back to the 13th century. The 1800 sq.m site was excavated by archeologists of the Belarusian Academy of Sciences in 1968 – 1981 in Brest, Belarus."
+          },
+          "id": "24"
+        },
+        {
+          "position": {
+            "lat": 52.08206424,
+            "lng": 23.65885377
+          },
+          "data": {
+            "name": "War Museum - Territory of the World",
+            "picture": "../assets/marker-place/War Museum - Territory of the World.jpg",
+            "description": "Being on the territory of the memorial, be sure to go to the Museum - a very well-organized exposition with a large number of different historical materials - the Second World War began from here - this must be remembered"
+          },
+          "id": "25"
+        },
+        {
+          "position": {
+            "lat": 52.08667926,
+            "lng": 23.68633032
+          },
+          "data": {
+            "name": "Saved Artifacts Museum",
+            "picture": "../assets/marker-place/Saved Artifacts Museum.jpg",
+            "description": "This is the only museum in Belarus, the exposition of which consists of works of art and antiques, seized by customs officers in an attempt to smuggle them abroad. The museum regularly hosts vernissages, creative meetings with artists, literary and musical evenings, chamber music concerts, master classes, and the “Night at the Museum” campaign."
+          },
+          "id": "26"
+        },
+        {
+          "position": {
+            "lat": 52.09516304,
+            "lng": 23.68168473
+          },
+          "data": {
+            "name": "Brest City History Museum",
+            "picture": "../assets/marker-place/Brest City History Museum.jpg",
+            "description": "It’s better to get acquainted with the historical metamorphoses of Brest in the City History Museum, which was opened in 1998. The permanent exhibition contains rare items and documents. The museum settled down in Brest in an old mansion."
+          },
+          "id": "27"
+        },
+        {
+          "position": {
+            "lat": 52.0902226,
+            "lng": 23.68917346
+          },
+          "data": {
+            "name": "Brest Regional Museum of Local Lore",
+            "picture": "../assets/marker-place/Brest Regional Museum of Local Lore.jpg",
+            "description": "The Brest Regional Museum is considered one of the youngest ethnographic museums in the Republic of Belarus. In the halls of the museum you can get an idea about the ancient way of life, folk crafts and arts, military science, the famous natives of Brest. The museum also holds exhibitions of works of art and collections from other museums."
+          },
+          "id": "28"
+        },
+        {
+          "position": {
+            "lat": 52.1556892,
+            "lng": 23.63794327
+          },
+          "data": {
+            "name": "Nemtsevich manor",
+            "picture": "../assets/marker-place/Nemtsevich manor.jpg",
+            "description": "Nemtsevichy Manor is a unique and significant object of historical and cultural heritage, the only architectural structure of its kind in the vicinity of the city of Brest. It is dedicated to Julian Ursyn Nemtsevich- a writer, and publicist. Exactly within the walls of the estate on December 15, 1917 a truce between Soviet Russia and the German Empire was signed. The Manor includes 6 rooms and a souvenir shop with unique handicrafts."
+          },
+          "id": "29"
+        }
+      ]
+    },
+    {
+      "name": "Restaurants",
+      "id": "Restaraunts4154",
+      "listMarkers": [
+        {
+          "position": {
+            "lat": 52.09177829,
+            "lng": 23.68923783
+          },
+          "data": {
+            "name": "Jules Verne",
+            "picture": "../assets/marker-place/Jules Verne.jpg",
+            "description": "The restaurant \"Jules Verne\" at the dawn of the XXI century became for Brest residents something more than just a restaurant and took its unique place in the cultural life of the city. High-quality cuisine, elegant interior and high level of service give the restaurant the right to claim the title of best in Brest. The spirit of travel from the books of Jules Verne is emphasized by interior details and in the institution's carefully designed menu."
+          },
+          "id": "41"
+        },
+        {
+          "position": {
+            "lat": 52.09482029,
+            "lng": 23.69135141
+          },
+          "data": {
+            "name": "Times Cafe",
+            "picture": "../assets/marker-place/Times Cafe.jpg",
+            "description": "Times Café is a stylish city cafe full of cultural and gastronomic events. Bright and informative cuisine, for which I want to come here again and again. The Times Café Bar is a separate pride. A place where from classic ingredients with the addition of unexpected notes you get bright and catchy cocktails."
+          },
+          "id": "42"
+        },
+        {
+          "position": {
+            "lat": 52.0901435,
+            "lng": 23.69458348
+          },
+          "data": {
+            "name": "Paragragh",
+            "picture": "../assets/marker-place/Paragragh.jpg",
+            "description": "Delicious coffee, excellent service and a comfortable atmosphere are our three key features, but our guests helped us become really popular in the fourth and most unique feature."
+          },
+          "id": "43"
+        },
+        {
+          "position": {
+            "lat": 52.0920914,
+            "lng": 23.69355887
+          },
+          "data": {
+            "name": "La Kava",
+            "picture": "../assets/marker-place/La Kava.jpg",
+            "description": "The institution is located on the central pedestrian street - Sovetskaya. The maximum capacity of the hall is 30 people. The lunch menu changes daily. There is a summer terrace. It offers visitors dishes of European, Belarusian, author and home-made cuisine."
+          },
+          "id": "44"
+        },
+        {
+          "position": {
+            "lat": 52.08991278,
+            "lng": 23.69426966
+          },
+          "data": {
+            "name": "Korova",
+            "picture": "../assets/marker-place/Korova.jpg",
+            "description": "Korova Grill Bar is located in the city center on the pedestrian Sovetskaya Street. Depending on the purpose of the visit, visitors are offered three accommodation options: a bar, lounge area and restaurant. The restaurant's cuisine - Eastern and American - specializes in meat, fish, vegetables and seafood dishes on an open fire in the Italian Josper grill."
+          },
+          "id": "45"
+        },
+        {
+          "position": {
+            "lat": 52.08342572,
+            "lng": 23.68840635
+          },
+          "data": {
+            "name": "Venezia",
+            "picture": "../assets/marker-place/Venezia.jpg",
+            "description": "Only here you will plunge into the atmosphere of a real cheerful Italy, which you want to return to again and again! Cafe VENEZIA needs no introduction: for twelve years of work, it has earned a reputation as one of the best institutions in Brest. The cafe harmoniously combines Italian and European cuisine with a cozy atmosphere of a respectable and at the same time family-run establishment."
+          },
+          "id": "46"
+        },
+        {
+          "position": {
+            "lat": 52.08740443,
+            "lng": 23.69603187
+          },
+          "data": {
+            "name": "Sonnet",
+            "picture": "../assets/marker-place/Sonnet.jpg",
+            "description": "Cafe Sonnet - the first institution of Brest in the format of a coffee shop. The doors of Sonnet have been open for five years, and every day they come here for hot pastries and good coffee."
+          },
+          "id": "47"
+        },
+        {
+          "position": {
+            "lat": 52.09425673,
+            "lng": 23.69215608
+          },
+          "data": {
+            "name": "Carpe Diem",
+            "picture": "../assets/marker-place/Carpe Diem.jpg",
+            "description": "Cafe Carpe Diem in Brest offers guests dishes of European cuisine, Japanese, Italian cuisine. Chefs offer both classic and original dishes. There is a children's and lunch menu. For regular customers a loyal system of discounts."
+          },
+          "id": "48"
+        },
+        {
+          "position": {
+            "lat": 52.08727917,
+            "lng": 23.70258451
+          },
+          "data": {
+            "name": "KFC",
+            "picture": "../assets/marker-place/KFC.jpg",
+            "description": "I think you should know this restaurant too"
+          },
+          "id": "49"
+        },
+        {
+          "position": {
+            "lat": 52.09054561,
+            "lng": 23.69392097
+          },
+          "data": {
+            "name": "Burger King",
+            "picture": "../assets/marker-place/Burger King.jpg",
+            "description": "I think you should know this restaurant too"
+          },
+          "id": "50"
+        },
+        {
+          "position": {
+            "lat": 52.07965106,
+            "lng": 23.73959094
+          },
+          "data": {
+            "name": "McDonald’s",
+            "picture": "../assets/marker-place/McDonald’s.jpg",
+            "description": "Especially, you should know this restaurant. He is the same."
+          },
+          "id": "51"
+        },
+        {
+          "position": {
+            "lat": 52.08541018,
+            "lng": 23.69352669
+          },
+          "data": {
+            "name": "Domino's Pizza",
+            "picture": "../assets/marker-place/Hampton by Hilton.jpg",
+            "description": "Domino's Pizza is the world's №1 pizza chain retailer in the world. The Domino’s pizza flavor is based on premium flour dough, which is prepared manually and rolled out specifically for each order. Thanks to cornmeal, pizza has crispy golden sides."
+          },
+          "id": "52"
+        },
+        {
+          "position": {
+            "lat": 52.09730515,
+            "lng": 23.74434114
+          },
+          "data": {
+            "name": "Amsterdam",
+            "picture": "../assets/marker-place/Amsterdam.jpg",
+            "description": "Amsterdam is a cozy cafe with a large selection of European dishes in Brest. In Amsterdam you will try delicious pizza, which can be easily compared with the creations of the best Italian pizza makers. Cafe Amsterdam is a wonderful place, furnished in European style. Here you can try hearty and delicious dishes, celebrate a memorable birthday, dine in the company of good friends or spend a romantic evening with your soulmate."
+          },
+          "id": "53"
+        }
+      ]
+    },
+    {
+      "name": "Hotels",
+      "id": "Hotels6167",
+      "listMarkers": [
+        {
+          "position": {
+            "lat": 52.07434952,
+            "lng": 23.70841563
+          },
+          "data": {
+            "name": "Hampton by Hilton",
+            "picture": "../assets/marker-place/Hampton by Hilton.jpg",
+            "description": "New hotel with a great location for business and leisure travelers. It is located just 4 km from the city center and the world famous Brest Fortress."
+          },
+          "id": "61"
+        },
+        {
+          "position": {
+            "lat": 52.08575959,
+            "lng": 23.70441645
+          },
+          "data": {
+            "name": "Belarus",
+            "picture": "../assets/marker-place/Belarus.jpg",
+            "description": "The best deals and current promotions for our guests! Individual discounts and bonuses, reasonable prices, various tariffs and flexible living conditions! Do not miss the opportunity of economical vacation in the hotel complex \"Belarus\""
+          },
+          "id": "62"
+        },
+        {
+          "position": {
+            "lat": 52.09401614,
+            "lng": 23.68111342
+          },
+          "data": {
+            "name": "Hermitage",
+            "picture": "../assets/marker-place/Hermitage.jpg",
+            "description": "The elegant four-star Hermitage Hotel is located in the very center of Brest. It offers a stylish restaurant, all air-conditioned rooms with free Wi-Fi. This is the favorite part of the city of Brest among our guests, according to independent reviews."
+          },
+          "id": "63"
+        },
+        {
+          "position": {
+            "lat": 52.10707189,
+            "lng": 23.75212491
+          },
+          "data": {
+            "name": "Youth",
+            "picture": "../assets/marker-place/Youth.jpg",
+            "description": "Reasonable prices, a decent level of comfort, proximity to the main enterprises and sports facilities of the city make the Yunost hotel attractive for both business visits and sports delegations, tourist groups."
+          },
+          "id": "64"
+        },
+        {
+          "position": {
+            "lat": 52.0855717,
+            "lng": 23.69193614
+          },
+          "data": {
+            "name": "Inturist",
+            "picture": "../assets/marker-place/Inturist.jpg",
+            "description": "Hotel Intourist is located in the very center of Brest. The Brest Fortress is located within 3 km from the hotel, also in the immediate vicinity are the pedestrian Sovetskaya Street, the Saved Values ​​Museum, and the railway equipment museum. The Belarusian-Polish border is a 7-minute drive from the hotel."
+          },
+          "id": "65"
+        },
+        {
+          "position": {
+            "lat": 52.11547603,
+            "lng": 23.68728787
+          },
+          "data": {
+            "name": "Silver Thaler",
+            "picture": "../assets/marker-place/Silver thaler.jpg",
+            "description": "Silver Thaler Hotel which is located near the city center, next to the train station. Hotel Silver Taler is located in a quiet area, which will ensure your peace and comfort. We do everything to make your stay as comfortable and cozy as possible. For you, we have a free guarded parking lot with video surveillance, we will arrange for you a free transfer from / to the railway station and the airport of Brest."
+          },
+          "id": "66"
+        },
+        {
+          "position": {
+            "lat": 52.09709754,
+            "lng": 23.68148088
+          },
+          "data": {
+            "name": "Bug",
+            "picture": "../assets/marker-place/Bug.jpg",
+            "description": "The Bug Hotel is ideally located for visiting all the main attractions of Brest and the region, including the Brest Fortress and Belovezhskaya Pushcha. The close proximity to the train station, central bus station, as well as the business, administrative and shopping center provides an obvious advantage for hotel guests."
+          },
+          "id": "67"
+        }
+      ]
+    },
+    {
+      "name": "Entertainments",
+      "id": "Entertainments8186",
+      "listMarkers": [
+        {
+          "position": {
+            "lat": 52.0839169,
+            "lng": 23.73858511
+          },
+          "data": {
+            "name": "Rowing canal",
+            "picture": "../assets/marker-place/Memorial Complex Brest Hero-Fortress.jpg",
+            "description": "Brest rowing canal - a unique natural structure, the business card of the city. Channel`s length is 2274 m (competitive distance - 2000 m, the zone start - 50 m, distance braking - 210 m), width - 162 m, which is fully consistent with international standards."
+          },
+          "id": "81"
+        },
+        {
+          "position": {
+            "lat": 52.09271102,
+            "lng": 23.73855829
+          },
+          "data": {
+            "name": "Manege",
+            "picture": "../assets/marker-place/Manege.jpg",
+            "description": "The arena for athletics began its work in 2007. Citizens can also visit halls and playgrounds not only as spectators. A gym, a sauna, badminton courts, tennis, table tennis, and basketball are open for them."
+          },
+          "id": "82"
+        },
+        {
+          "position": {
+            "lat": 52.09148495,
+            "lng": 23.73861194
+          },
+          "data": {
+            "name": "Ice Palace",
+            "picture": "../assets/marker-place/Ice Palace.jpg",
+            "description": "In addition to the ice rink еhe Palace has a bar where you can eat in the break of an intense hockey match, and a sauna, which is a good and pleasant place of rest, prevention of colds and support a healthy body and spirit. Here also operates a massage room and conference hall. Inside the Ice Palace are often held large-scale city and regional fairs, trade exhibitions and other public events."
+          },
+          "id": "83"
+        },
+        {
+          "position": {
+            "lat": 52.09105648,
+            "lng": 23.73441696
+          },
+          "data": {
+            "name": "Palace of water sport",
+            "picture": "../assets/marker-place/Palace of water sport.jpg",
+            "description": "The opening of the sports ground was visited by the Head of the Belarusian state Alexander Lukashenko. The equipment and versatility of the Palace building, where is training a new generation of athletes, have no analogues in Belarus. Here are held competitions of Republican and International scale, are prepared superior swimmers, citizens maintain the level of physical training."
+          },
+          "id": "84"
+        },
+        {
+          "position": {
+            "lat": 52.0934262,
+            "lng": 23.67448032
+          },
+          "data": {
+            "name": "Park of Culture and Rest",
+            "picture": "../assets/marker-place/Park of Culture and Rest",
+            "description": "It is easy and easy to breathe in the old park. Here, in the shadow of the shady alleys, memories flow. The trees are quietly rustling, and it seems that time is also quietly flowing from the hourglass of our lives. Minutes, hours and days are made up of weeks and months. So fly years, decades. But distance from the past is shortened by memory."
+          },
+          "id": "85"
+        },
+        {
+          "position": {
+            "lat": 52.0825917,
+            "lng": 23.70154381
+          },
+          "data": {
+            "name": "Embankment",
+            "picture": "../assets/marker-place/Embankment.jpg",
+            "description": "The embankment of the Mukhavets river in Brest is a place of unexpected meetings with old friends, a place of pleasant acquaintances and non-banal pastime. Here young mothers with strollers walk, elderly couples with dogs, whole families and groups of friends. And in the evening the embankment turns into a real avenue of dates."
+          },
+          "id": "86"
+        }
+      ]
+    }
+  ]
+}
