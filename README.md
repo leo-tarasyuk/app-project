@@ -5,7 +5,12 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles virtual server for development on first terminal
+```
+npm run server
+```
+
+### Compiles and hot-reloads for development on second terminal
 ```
 npm run serve
 ```
